@@ -1,0 +1,44 @@
+{
+    "name": "Heroy Gold",
+    "symbol": "Heroy Gold",
+    "description": "Heroy NFT Gold",
+    "seller_fee_basis_points": 100,
+    "image": "4.png",
+    "attributes": [
+        {
+            "trait_type": "web",
+            "value": "yes"
+        },
+        {
+            "trait_type": "mobile",
+            "value": "yes"
+        },
+        {
+            "trait_type": "extension",
+            "value": "yes"
+        }
+    ],
+    "collection": {
+        "name": "Heroy NFT",
+        "family": "Solflare"
+    },
+    "properties": {
+	    "files": [
+		    {
+			    "uri": "4.png",
+			    "type": "image/png"
+		    },
+		    {
+			    "uri": "https://bafybeibmkf2mb3c6eglf7fbfk5svefmfmg44klc6ouwnq6hyzliw47ifae.ipfs.infura-ipfs.io/",
+			    "type": "image/png"
+		    }
+	    ],
+	    "category": "video",
+	    "creators": [
+		    {
+			    "address": "3F8LCQxb32jQ9AMh7nC9dMMh2CYmRFNUHZPpqiwjk8Dv",
+			    "share": 100
+		    }
+	    ]
+    }
+}
